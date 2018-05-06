@@ -36,4 +36,4 @@ out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
 
-#this is a change to allow me to pull and finish this lessons
+#this is a change to allow me to pull and finish this lesson
